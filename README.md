@@ -43,10 +43,4 @@ CSS is also used in the project
 * Using images, links, and sections effectively
 * Building a professional portfolio website
 
-## Author
 
-Your Name
-
-## License
-
-This project is for educational purposes.
